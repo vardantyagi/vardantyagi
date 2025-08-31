@@ -59,7 +59,7 @@
 ## 🌐 Connect with Me
 - 📧 Email: **vardantyagii@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vardantyagi)  
-- 🐦 [Twitter](https://twitter.com/vardantyagi)  
+- 🐦 [Twitter](https://twitter.com/vardantyagi_)  
 - 💻 [LeetCode](https://leetcode.com/vardantyagi)  
 <!--- 🌟 [Portfolio Website](https://yourportfolio.com) -->
 
