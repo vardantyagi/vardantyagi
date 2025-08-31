@@ -34,8 +34,8 @@
 
 ## 📌 Projects Showcase  
 - [🤖 MockMate](https://github.com/vardantyagi/mockmate) – AI-powered mock interview app with audio interactions  
-- [🌱 GreenCart](https://github.com/vardantyagi/greencart) – MERN stack e-commerce app with JWT authentication & Cloudinary  
-- [🎬 NetflixGPT](https://github.com/vardantyagi/netflixgpt) – Movie recommendation platform using TMDB API + Gemini AI  
+- [🌱 GreenCart](https://github.com/vardantyagi/GreenCartCode) – MERN stack e-commerce app with JWT authentication & Cloudinary  
+- [🎬 NetflixGPT](https://github.com/vardantyagi/NetflixGPTcode) – Movie recommendation platform using TMDB API + Gemini AI  
 - [🏡 Wanderlust](https://github.com/vardantyagi/wanderlust) – Airbnb-inspired homestay booking platform (Node.js + MongoDB)  
 
 ---
@@ -57,7 +57,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: **yourname@email.com**  
+- 📧 Email: **vardantyagii@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vardantyagi)  
 - 🐦 [Twitter](https://twitter.com/vardantyagi)  
 - 💻 [LeetCode](https://leetcode.com/vardantyagi)  
